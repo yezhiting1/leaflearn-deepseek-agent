@@ -92,8 +92,6 @@ openJiuwen Studio作为一站式AI Agent开发平台，提供了从开发到部�
 
 **_除HITL/终止等针对同一个任务的场景外，每次调用deepsearch SDK的run接口使用服务时，需要传入不同的conversation_id，不允许使用相同的conversation_id二次传入。_**
 
-# ❓ FAQ
-更多常见问题详见[FAQ](./docs/zh/5.FAQ/README.md)。
 
 # ⚖️ 许可证
 本项目采用 Apache 2.0 许可证。详见 [LICENSE](LICENSE) 文件。
