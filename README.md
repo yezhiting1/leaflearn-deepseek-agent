@@ -48,28 +48,11 @@ DeepSearch主要由管理器、查询规划、信息收集、理解分析和内�
 openJiuwen Studio作为一站式AI Agent开发平台，提供了从开发到部署的全站解决方案。openJiuwen-DeepSearch作为典型Agent实现，可以在Studio平台进行
 模型、工具及知识库等管理及配置，同时输入用户查询，体验深度研究的过程及报告结果。而openJiuwen Ops作为AI Agent从调试、评测、到观测、调优等一站式平台，可辅助openJiuwen-DeepSearch等Agent进行调试调优。
 
-为方便叙述，后面将采用以下简称：
-- **agent-core**: openJiuwen agent-core
-- **Studio**: openJiuwen Studio
-- **DeepSearch**: openJiuwen-DeepSearch
-- **Ops**: openJiuwen Ops
-
-# 📦 安装指导
-
-本节提供了 DeepSearch 的完整安装说明，帮助您在不同系统环境下快速部署并使用系统。
-
-## 完整版本快速安装指南
-
-以下方式适用于希望**直接使用完整系统**（包含前端界面）的用户。
 
  * Windows 系统快速安装指南：[Windows 安装指导](./docs/zh/2.安装指导/DeepSearch完整版/Windows系统安装.md)
  * MacOS 系统快速安装指南：[MacOS 安装指导](./docs/zh/2.安装指导/DeepSearch完整版/MacOS系统安装.md)
  * Linux 系统快速安装指南：[Linux 安装指导](./docs/zh/2.安装指导/DeepSearch完整版/Linux系统安装.md)
 
-## 其他安装方式
- 	 
-如果您需要进行二次开发、定制化部署或源码级调试，可以参考开发者安装方式。
-详细文档请参阅：[SDK安装指导](./docs/zh/2.安装指导/DeepSearch_SDK/README.md)。
 
 # 🚀 快速上手
 以下视频帮助您快速了解 DeepSearch 的核心功能与使用流程。
