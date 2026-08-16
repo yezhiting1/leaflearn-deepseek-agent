@@ -1,4 +1,4 @@
-**阅读语言：** [English](./README.md) | 简体中文
+**学习资料：** [English](./README.md) | 简体中文
 
 # 🔬 什么是openJiuwen-DeepSearch
 
